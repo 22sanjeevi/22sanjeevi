@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'am SANJEEVI G,
+WEB DEVELOPER
+I'm currently purshuing my MASTERS degree in KONGU ENGINEERING COLLEGE 
 
 <!--
 **22sanjeevi/22sanjeevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
